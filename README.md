@@ -1,4 +1,4 @@
-# 👥 Bienvenidos a la Organización [Nombre]
+# 👥 Bienvenidos a la Organización 
 
 ## Equipo del proyecto principal
 
