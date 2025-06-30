@@ -14,4 +14,4 @@
 | <img src="https://github.com/lfernando10.png" width="80"> | **Luis Condori**     | Redacción y especificación de requerimientos     | [@lfernando10](https://github.com/lfernando10) |
 | <img src="https://github.com/1000dercito.png" width="80"> | **Milder Muñoz**     | Redacción y especificación de requerimientos     | [@1000dercito](https://github.com/1000dercito) |
 | <img src="https://github.com/Omar-Huayapa.png" width="80"> | **Omar Huayapa**     | Redacción y creación de encuestas                | [@Omar-Huayapa](https://github.com/Omar-Huayapa) |
-| <img src="https://github.com/ThaliaQuisoeMamani.png" width="80"> | **Thalia Quispe**    | Redacción y especificación de requerimientos     | [@ThaliaQuisoeMamani](https://github.com/ThaliaQuisoeMamani) |
+| <img src="https://github.com/ThaliaQuispeMamani.png" width="80"> | **Thalia Quispe**    | Redacción y especificación de requerimientos     | [@ThaliaQuisoeMamani](https://github.com/ThaliaQuisoeMamani) |
